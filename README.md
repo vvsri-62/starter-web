@@ -9,6 +9,11 @@ and various commands using web project.
 
 ## Purpose
 
+main purpose is to provide simple examples for Git
+
 ## Deployment
+
+This is a simple web project. Deployment can be
+on any web server or even a local file system.
 
 ## How to contribute 
