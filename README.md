@@ -17,3 +17,8 @@ This is a simple web project. Deployment can be
 on any web server or even a local file system.
 
 ## How to contribute 
+
+
+### Copyright
+
+2020 Git.Training
