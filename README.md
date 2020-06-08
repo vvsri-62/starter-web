@@ -18,6 +18,9 @@ on any web server or even a local file system.
 
 ## How to contribute 
 
+Please fork this repository and then issue Pull request
+for review.
+
 
 ### Copyright
 
