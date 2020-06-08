@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    vvsri team	 vvsri@git.training 	@vvsri
 
 # THANKS
 
